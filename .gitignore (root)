@@ -1,0 +1,19 @@
+# Terraform files
+.terraform/
+.terraform.lock.hcl
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Crash logs
+crash.log
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# OS / Editor files
+.DS_Store
+.idea/
+.vscode/
