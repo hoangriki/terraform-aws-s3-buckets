@@ -17,4 +17,8 @@ The goal of this project is to learn and apply Terraform fundamentals by:
 
 ## 🧠 What This Project Covers
 - Terraform providers and configuration
-- A
+- AWS S3 bucket creation
+- Enabling S3 bucket versioning
+- Tagging AWS resources
+- Using variables and outputs
+- Managing infrastructure lifecycle with Terraform
